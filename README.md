@@ -11,6 +11,7 @@ prospective customers in 4 other cities. These cities could be different
 each month. The sales manager wants to minimise the travel costs by
 choosing the most economic route between the cities for each sales
 person.
+
 *Rules* 	
 
 • The first airport is the home airport and the other 4 are
