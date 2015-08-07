@@ -2,6 +2,7 @@
 As part of our Object Orientated Software Development module in Semester 1, we were given a project. This repository contains the code I wrote for the project, as well as the csv files were supplied with by our lecturer.
 
 **Description of project (Taken from handout)**
+
 The sales manager for your company wants a program that will
 streamline the sales teams travel plans. He describes the problem to
 you as follows:
@@ -48,5 +49,6 @@ containing a list of airports, a list of currencies and a list of exchange
 rates.
 
 **Instructions for use**
+
 To run the program you should run the projectMain.py file. This gives the user the option to select an employee from the list (generated from the csv file employees.csv) or to select their own airports. The program then calculates the cheapest route in accordance with the rules laid out above. 
 We were also required to create tests which can be ran from the projectTest.py file (must be ran in an IDE).
